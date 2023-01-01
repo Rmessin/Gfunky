@@ -4340,7 +4340,7 @@ Predicting Incoming Troops Section
             const atm2=[4,6,9,11];
             if(atm1.indexOf(arrivaltimemonth) > 0 && arrivaltimedate > 31){arrivaltimedate=1;}
             if(atm2.indexOf(arrivaltimemonth) > 0 && arrivaltimedate > 30){arrivaltimedate=1;}
-            if(arrivaltimemonth===02 && arrivaltimedate > 28) {arrivaltimedate=1;}
+            if(arrivaltimemonth=== 2 && arrivaltimedate > 28) {arrivaltimedate=1;}
             const addt=$(this);
             locktimeh=twodigitnum(locktimeh);
             locktimem=twodigitnum(locktimem);
