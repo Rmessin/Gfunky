@@ -1,6 +1,8 @@
 # Gfunky3
+
 This script has the following
-1. Dhruvs Dfunky, 
+
+1. Dhruvs Dfunky,
 2. Incoming troop predictor.
 3. Raiding setup in war councilor raider.
 4. Carry percentage in war councilor raider.
@@ -14,9 +16,9 @@ This script has the following
 12. Fill, Convert, Refine, On/off councilor, Raid, Demolish buttons.
 13. city layout designs.
 14. Nearest defence, add cords from region view panel to attack/defence sender.
-15. Lionell0 Quick Build, 
-16. Raiding improvements by Greety, 
-17. City Notes coordinates by Fact,  
+15. Lionell0 Quick Build,
+16. Raiding improvements by Greety,
+17. City Notes coordinates by Fact,
 18. buttons for 100% and 115% raiding options in War councilor by Greety.
 19. Shrine Planner
 20. Fixed Summary Tabs by Fact
@@ -25,16 +27,17 @@ This script has the following
 23. Fixed sizing issues for summary all summary tabs
 
 Quick Build Features
+
 1. Welcome
 
 2. Clear the chat feature
-Clear.png A button is added in extra feature for the chat. Clicking on it clear the different chats (world, ally, officer, whisper).
+   Clear.png A button is added in extra feature for the chat. Clicking on it clear the different chats (world, ally, officer, whisper).
 
 3. Advanced build feature
-A button bar is added in left column to facilitate building construction. Button bar.png
+   A button bar is added in left column to facilitate building construction. Button bar.png
 
 3.1 Prerequisite
-To activate the functionality you need to define a Layout planner. To define a layout click on edit in left bar, Edit layout.png, then set a map in layout planner Set layout.png If not, a message "Set a map to activate functionality". Currently this message can occur on city displayed while loading (see issue 2. If the map is set, switch city and get back. 
+To activate the functionality you need to define a Layout planner. To define a layout click on edit in left bar, Edit layout.png, then set a map in layout planner Set layout.png If not, a message "Set a map to activate functionality". Currently this message can occur on city displayed while loading (see issue 2. If the map is set, switch city and get back.
 
 3.2 Activating feature
 To activate/deactivate, click on 1rst button. Warning, the status is kept while changing the city.
